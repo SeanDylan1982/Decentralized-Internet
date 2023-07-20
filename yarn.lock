@@ -16877,10 +16877,10 @@ snapdragon@^0.8.1:
     source-map-resolve "^0.5.0"
     use "^3.1.0"
 
-snyk@1.966.0:
-  version "1.966.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.966.0.tgz#ac3dea309defdc262355ab592971da3714b599bd"
-  integrity sha512-XOqFdqG7V9uweENL2u/vpxfGyWKDuCg0eLafUHSwpxb7Yq/v9a7lSJ9sTZYzEqRWvLQC8+/06O/gQfVB+ryOmQ==
+snyk@1.973.0:
+  version "1.973.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.973.0.tgz#e64d23d62726de04481f1fde77c3c67f5c77228e"
+  integrity sha512-XNcfdSDb9F7dLRjyHcpHMXwCG/7fLHQaxNxkFn3SD6AYKLSCz5IlmAQ5clJ59Q+6tukfBd7nhXYhsJok1oF+1g==
 
 socket.io-adapter@~2.3.3:
   version "2.3.3"
@@ -18960,9 +18960,9 @@ windows-release@^3.1.0:
     execa "^1.0.0"
 
 word-wrap@~1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
-  integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.4.tgz#cb4b50ec9aca570abd1f52f33cd45b6c61739a9f"
+  integrity sha512-2V81OA4ugVo5pRo46hAoD2ivUJx8jXmWXfUkY4KFNw0hEptvN0QfH3K4nHiwzGeKl5rFKedV48QVoqYavy4YpA==
 
 wordwrap@^0.0.3:
   version "0.0.3"
