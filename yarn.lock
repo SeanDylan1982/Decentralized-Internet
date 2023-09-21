@@ -16877,10 +16877,10 @@ snapdragon@^0.8.1:
     source-map-resolve "^0.5.0"
     use "^3.1.0"
 
-snyk@1.966.0:
-  version "1.966.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.966.0.tgz#ac3dea309defdc262355ab592971da3714b599bd"
-  integrity sha512-XOqFdqG7V9uweENL2u/vpxfGyWKDuCg0eLafUHSwpxb7Yq/v9a7lSJ9sTZYzEqRWvLQC8+/06O/gQfVB+ryOmQ==
+snyk@1.973.0:
+  version "1.973.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.973.0.tgz#e64d23d62726de04481f1fde77c3c67f5c77228e"
+  integrity sha512-XNcfdSDb9F7dLRjyHcpHMXwCG/7fLHQaxNxkFn3SD6AYKLSCz5IlmAQ5clJ59Q+6tukfBd7nhXYhsJok1oF+1g==
 
 socket.io-adapter@~2.3.3:
   version "2.3.3"
@@ -17625,9 +17625,9 @@ sync-disk-cache@^2.0.0:
     username-sync "^1.0.2"
 
 systeminformation@^5.7:
-  version "5.7.4"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.7.4.tgz#13fcc29bd3836cf5043802f0f2532d0c4961a4ea"
-  integrity sha512-m6oziAu2zP8IMnNZpVWptzpcaXG6x59c2sQB8BI7DTcfBOTLXj5jGgjWxCVP65c5k7Fwhn35yVTCIZEypc1n9A==
+  version "5.21.8"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.21.8.tgz#18395187e5983698619ed07ca8640ae48ec232b2"
+  integrity sha512-Xf1KDMUTQHLOT9Z7MjpSpsbaICOHcm4OZ9c9qqpkCoXuxq5MoyDrgu5GIQYpoiralXNPrqxDz3ND8MdllpXeQA==
 
 table@^5.2.3:
   version "5.4.6"
